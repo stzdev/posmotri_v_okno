@@ -255,9 +255,8 @@ display: block;
 
 .content__video-card-description-container {
   max-width: 200px;
-  max-height: 101px;
-  overflow: hidden;
   flex-grow: 1;
+  overflow: hidden;
 }
 
 .content__video-card-title {   
